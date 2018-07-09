@@ -3,7 +3,7 @@
   include 'header.php';
 ?>
     <main role="main">
-
+         <h2 class="text-center">Git Hub</h2>
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
